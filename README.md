@@ -1,6 +1,7 @@
-LangChain Fundamentals Covered in this project include: Prompt Templates, Chat Models, and Chains
+<h6>LangChain Fundamentals Covered in this project include: Prompt Templates, Chat Models, and Chains</h6>
 
-SOME DETAILS ABOUT THIS PROJECT:  
+SOME DETAILS ABOUT THIS PROJECT: 
+
 Steps For Creating this Project:
 
 Create a folder named Langchain-Text-Summarization in C drive.
@@ -92,7 +93,7 @@ git push -u origin main
 
 Once done, all your local project files will be uploaded to that GitHub repository.
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-Summary of Tools Used:
+<br>Summary of Tools Used:
 ---------------------------
 uv → Manages Python project and dependencies
 
@@ -107,7 +108,7 @@ isort → Import sorter
 Git + GitHub → Version control and repository hosting
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+<br>
 🧩 1. pip install uv
 
 Purpose: Installs the uv tool, which is a modern package and project manager for Python (faster than pip).
@@ -133,7 +134,7 @@ Sets up a virtual environment .venv.
 Prepares the project structure for Python development.
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-🧩 Git Command Explanations
+<br>🧩 Git Command Explanations
 1. git init
 
 Meaning: Initializes a new Git repository in your current project folder.
@@ -224,7 +225,7 @@ Your project files appear in your GitHub repository.
 When to use:
 After your first commit, or whenever you want to update the remote repo with new changes.
 
-✅ Summary Table
+<br>✅ Summary Table
 
 Command	Purpose	When to Use
 git init	Start a new Git repository	Once at project creation
@@ -233,6 +234,7 @@ git commit -m "message"	Save staged changes to Git history	After git add .
 git branch -M main	Rename current branch to main	Before first GitHub push
 git remote add origin <URL>	Link local repo to GitHub	Once per project
 git push -u origin main	Upload local code to GitHub	After committing changes
+
 
 
 
