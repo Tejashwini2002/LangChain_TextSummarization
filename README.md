@@ -1,4 +1,4 @@
-<h6>LangChain Fundamentals Covered in this project include: Prompt Templates, Chat Models, and Chains</h6>
+<h1><b>LangChain Fundamentals Covered in this project include: Prompt Templates, Chat Models, and Chains</b></h1>
 
 SOME DETAILS ABOUT THIS PROJECT: 
 
@@ -234,6 +234,7 @@ git commit -m "message"	Save staged changes to Git history	After git add .
 git branch -M main	Rename current branch to main	Before first GitHub push
 git remote add origin <URL>	Link local repo to GitHub	Once per project
 git push -u origin main	Upload local code to GitHub	After committing changes
+
 
 
 
